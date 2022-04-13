@@ -1,0 +1,26 @@
+.form {
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  width: 600px;
+  height: 70px;
+  padding-top: 30px;
+  font-family: "Oswald", sans-serif;
+}
+.d-flex.justify-content-center.mb-5 {
+  font-family: "Oswald", sans-serif;
+}
+
+.button {
+  background-color: #eba83a;
+  color: black;
+  border: 1px solid black;
+  width: 120px;
+  height: 50px;
+  font-family: "Oswald", sans-serif;
+}
+
+.h5 {
+  color: black;
+  font-family: "Oswald", sans-serif;
+}

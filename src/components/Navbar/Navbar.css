@@ -1,0 +1,15 @@
+.navbar.navbar-expand-md {
+  background: #fffef8;
+  border-bottom: 1px solid black;
+}
+
+.container {
+  font-family: "Michroma", sans-serif;
+}
+.navbar-brand {
+  font-size: 25px;
+  color: black;
+}
+.nav-link {
+  color: black;
+}
